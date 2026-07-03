@@ -45,7 +45,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <center>
 
 
-![Zahntechnikerin](assets/images/zahntechniker_et_work.jpg "[_Quelle: Pixabay, Ri-Ya_](https://pixabay.com/photos/dental-lab-models-dental-crowns-7660684/)")<!-- style="width: 500px" -->
+![Zahnmodelle und Zahnkronen liegen auf einem Arbeitstisch in einem Dentallabor.](assets/images/zahntechniker_et_work.jpg "Zahnmodelle und Zahnkronen im Dentallabor. Bild von [Ri_Ya via Pixabay](https://pixabay.com/photos/dental-lab-models-dental-crowns-7660684/), Pixabay Content License, veröffentlicht am 18. Dezember 2022.")<!-- style="width: 500px" -->
 
 </center>
 
@@ -115,7 +115,7 @@ Welche Fügetechnik gibt es in der Zahntechnik NICHT?
 
 <center>
 
-![kleine Zahnarbeiter](assets/images/zaehne_und_maennl.jpg "[_Quelle: Pixabay, Vilkasss_](https://pixabay.com/illustrations/ai-generated-teeth-dental-miniature-9431605/)")<!-- style="width: 500px" -->
+![Miniaturfiguren reinigen und bearbeiten menschliche Zähne.](assets/images/zaehne_und_maennl.jpg "Miniaturfiguren bei der Reinigung und Bearbeitung menschlicher Zähne als Symbol für Zahnpflege und Mundhygiene. Bild von [Vilkasss via Pixabay](https://pixabay.com/illustrations/ai-generated-teeth-dental-miniature-9431605/), Pixabay Content License, veröffentlicht am 26. Februar 2025.")<!-- style="width: 500px" -->
 
 </center>
 
@@ -137,7 +137,7 @@ Welcher Fachbegriff bezeichnet eine zahntechnische Klebeverbindung?
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](assets/images/fragezeichen2.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Unsicherheit und Klärungsbedarf.](assets/images/fragezeichen2.jpg "Fragezeichen als Symbol für Fragen und Klärung. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/fragezeichen-symbol-charakter-2309040/), Pixabay Content License.")<!-- style="max-width: 250px; width: 100%" -->
 
 </div>
 </section>
@@ -237,7 +237,7 @@ $\boxed{W_M \approx 10{,}04\,\text{g}}$
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](assets/images/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Hilfe und Antworten.](assets/images/fragezeichen.jpg "Fragezeichen als Symbol für Fragen, Hilfe und Antworten. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/frage-fragezeichen-hilfe-antwort-2309042/), Pixabay Content License.")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -262,7 +262,7 @@ Welche Werkstoffe werden üblicherweise in der Zahntechnik für die Teleskoptech
 </div>
 <div class="flex-child-1">
 
-![Zahntechnikerin](assets/images/worker_et_krone.jpg "[_Quelle: Pixabay, ExplorerBob_](https://pixabay.com/photos/adult-woman-medicine-people-3264741/)")<!-- style="max-width: 200px; width: 100%" -->
+![Medizinische Fachkraft mit Mundschutz und blauen Handschuhen arbeitet mit einem zahnmedizinischen Werkzeug an einem kleinen Zahnmodell.](assets/images/worker_et_krone.jpg "Medizinische Fachkraft bei der zahnmedizinischen Arbeit mit Werkzeug und Zahnmodell. Bild von [ExplorerBob via Pixabay](https://pixabay.com/photos/adult-woman-medicine-people-3264741/), Pixabay Content License, veröffentlicht am 3. April 2018.")<!-- style="max-width: 200px; width: 100%" -->
 
 
 </div>
@@ -273,5 +273,5 @@ Welche Werkstoffe werden üblicherweise in der Zahntechnik für die Teleskoptech
 
 
 <center>
-![Jubel](assets/images/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")
 </center>
